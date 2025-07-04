@@ -1,0 +1,16 @@
+{
+  "_trending": ["#viral", "#trending", "#explorepage", "#fyp", "#instadaily", "#instagram", "#socialmedia", "#digitalmarketing", "#contentcreator", "#influencer"],
+  
+  "beach": ["#beachvibes", "#sunsetlover", "#oceanview", "#seashells", "#saltwater", "#beachlife", "#shoreline", "#tides", "#coastalliving", "#beachbum", "#sandyshores", "#seaside", "#waves", "#beachday", "#oceanvibes"],
+  "food": ["#foodie", "#instafood", "#yummy", "#foodphotography", "#foodstagram", "#delicious", "#foodlover", "#foodblogger", "#homemade", "#eatingfortheinsta", "#foodgasm", "#culinary", "#tasty", "#foodpics", "#foodgram"],
+  "birthday": ["#birthdayvibes", "#celebrate", "#cake", "#happybirthday", "#party", "#birthdaygirl", "#birthdayboy", "#cheers", "#specialday", "#birthdayfun", "#milestone", "#ageisjustanumber", "#birthdaybash", "#partyhard", "#makeawish"],
+  "fashion": ["#ootd", "#styleinspo", "#fashiongram", "#outfit", "#lookbook", "#streetstyle", "#fashionista", "#trendy", "#dapper", "#styleoftheday", "#whatiwore", "#fashionblogger", "#stylish", "#fashionaddict", "#outfitinspiration"],
+  "selfie": ["#selfielove", "#instapic", "#me", "#selfietime", "#smile", "#selfiequeen", "#selfieking", "#portrait", "#face", "#selfiegame", "#selfieoftheday", "#selfiesunday", "#photooftheday", "#selfiemode", "#selfiecentral"],
+  "friends": ["#friendshipgoals", "#besties", "#together", "#squad", "#friendsforever", "#memories", "#goodtimes", "#friendship", "#bff", "#friendsforlife", "#groupchat", "#squadgoals", "#makingmemories", "#friendstime", "#bestfriends"],
+  "travel": ["#wanderlust", "#travelgram", "#exploremore", "#adventure", "#globetrotter", "#passportready", "#travelbug", "#jetsetter", "#worldtraveler", "#discover", "#voyage", "#roam", "#travelphotography", "#traveladdict", "#travelmore"],
+  "nature": ["#naturelover", "#greenery", "#outdoors", "#wilderness", "#earth", "#landscape", "#scenery", "#naturephotography", "#getoutside", "#naturegram", "#mothernature", "#naturalbeauty", "#nature_perfection", "#natureaddict", "#nature_brilliance"],
+  "fitness": ["#fitspo", "#workout", "#gymlife", "#fitfam", "#trainhard", "#exercise", "#healthylifestyle", "#strong", "#fitnessmotivation", "#fitlife", "#gymmotivation", "#bodybuilding", "#training", "#fitnessaddict", "#gymtime"],
+  "art": ["#artwork", "#creative", "#artist", "#drawing", "#painting", "#design", "#illustration", "#sketch", "#artoftheday", "#artgallery", "#modernart", "#artistic", "#artsy", "#creativity", "#artlover"],
+  "music": ["#musician", "#song", "#musiclife", "#musicismylife", "#singing", "#concert", "#livemusic", "#musicvideo", "#musicproducer", "#musicislife", "#musicaddict", "#musicfestival", "#musiclove", "#musictime", "#musicmonday"],
+  "pet": ["#petstagram", "#doglover", "#catlover", "#pets", "#animal", "#furbaby", "#petsofinstagram", "#doglife", "#catlife", "#petlove", "#puppy", "#kitten", "#animals", "#petphotography", "#petlover"]
+}
